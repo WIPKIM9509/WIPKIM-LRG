@@ -20,7 +20,7 @@ _Spr2 = 0x80F13C
 _Spr3 = 0x51E948
 _Spr4 = 0x5D2DC8
 _Spr5 = 0xFB9278
-_Spr6 = 0xC69948
+_Spr6 = 0xC69940
 
 function main()
     Devl = gg.multiChoice({Mul1 .. " ⪩ ปล่อยตัว 0วิ ", Mul2 .. " ⪩ ตีแรง 999 ",
